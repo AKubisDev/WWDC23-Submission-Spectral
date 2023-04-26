@@ -18,5 +18,5 @@ For example: the element Helium was discovered in the spectrum of the Sun's ligh
 I've always had a pull towards science and using my skills to try to help others experience that joy as well. I think there's a lot of potential in edutainment to engage and fill knowledge gaps. This was based off of an actual experiment I was able to do in one of my college Physics courses. After learning the base elements like in this simulated lab, we were given a 'mystery' vial and asked "What's in this?"
 At that level, you get to do some really fun experiments, but most of my friends would never get to experience it, because they had already moved on and left sciences classes behind them at lower levels. 
 
-##What is the future of this project?
+## What is the future of this project?
 While this specific iteration will be considered complete, I am considering developing a game version to enhance a truer feeling of gameplay over just a quiz and get some more difficulty mixed in.
